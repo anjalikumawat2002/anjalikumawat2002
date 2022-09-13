@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects.**
 
-- 📝 I regularly write articles on [https://dev.to/anjalikumawat2002](https://dev.to/anjalikumawat2002)
+- 📝 I regularly write articles on [https://dev.to/anjalikumawat2002](https://dev.to/anjalikumawat2002) and [https://medium.com/@anjali2002kumawat](https://medium.com/@anjali2002kumawat)
 
 
 
