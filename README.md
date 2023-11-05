@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumawat.</h1>
 
-<h2 align="center">I'm Anjali Kumawat, a Second Year Student currently pursuing my Bachelor's in Computer Science. I like learning and developing .</h2>
+<h2 align="center">I'm Anjali Kumawat, a Final Year Student currently pursuing my Bachelor's in Computer Science. I like learning and developing.</h2>
 
 
 - 🌱 I’m currently learning **Web development and Python.**
