@@ -1,3 +1,9 @@
+style{
+  summary{
+  color:"yellow"
+  }
+}
+
 <h1 align="center">Hi 👋, I'm Anjali Kumawat.</h1>
 
 <h2 align="center">I'm Anjali Kumawat, a Final Year Student currently pursuing my Bachelor's in Computer Science. I like learning and developing.</h2>
@@ -32,7 +38,7 @@
 
 
 <details open>
-  <summary style="font-size:2rem; font-weight:bold">My Github Stats </summary>
+  <summary>My Github Stats </summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikumawat2002&show_icons=true&locale=en" alt="anjalikumawat2002" /></p>
   
   
