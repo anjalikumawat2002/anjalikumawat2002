@@ -1,5 +1,5 @@
 <styles>
-  summary{
+  summary {
   color:"yellow"
   }
 </styles>
