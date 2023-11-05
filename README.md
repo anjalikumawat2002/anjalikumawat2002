@@ -34,7 +34,7 @@
 
 
 <details open>
-  <summary> <h2>My Github Stats</h2></summary>
+  <summary> <h3>My Github Stats</h3></summary>
   <div style="display:flex; justify-content:space-between">
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikumawat2002&show_icons=true&locale=en" alt="anjalikumawat2002" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalikumawat2002&show_icons=true&locale=en&layout=compact" alt="anjalikumawat2002" /></p> 
