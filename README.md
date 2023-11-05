@@ -1,8 +1,8 @@
-<style>
+<styles>
   summary{
   color:"yellow"
   }
-</style>
+</styles>
 
 <h1 align="center">Hi 👋, I'm Anjali Kumawat.</h1>
 
