@@ -32,7 +32,7 @@
 
 
 <details open>
-  <summary style="color:yellow !important">My Github Stats</summary>
+  <summary> <h2>My Github Stats</h2></summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikumawat2002&show_icons=true&locale=en" alt="anjalikumawat2002" /></p>
   
   
