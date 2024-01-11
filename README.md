@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumawat.</h1>
 
-<h2 align="center">I'm Anjali Kumawat, a Final Year Student currently pursuing my Bachelor's in Computer Science. I like learning and developing.</h2>
+<h2 align="center">I'm Anjali Kumawat, a final-year engineering undergrad and a skilled programmer specializing in web development.I am a software engineer with experience in technologies like React, .net, Python, C++, HTML & CSS, SQL, I have hands-on experience in coding, designing, and extending web applications and fields like traffic routing, Fullstack developing, efficient implimentations of c++ & Python. Beyond development, I am passionate about open source, actively contributing, and regularly sharing technical insights through my blogs on dev.to. and medium.</h2>
 
 ### Who I am
 - 🌟 Ex **Microsoft** Intern
